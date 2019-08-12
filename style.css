@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+  background-image: linear-gradient(to right, #070808, #070c0d, #090f12, #0d1116, #131219);
+  font-family: Roboto;
+}
+.container{
+  margin: 0px;
+  margin-right: 0px;
+  padding: 0px;
+  margin-left: 0px;
+  max-width: 100%;
+}
+
+header{
+  font-size: 10px;
+}
+
+.navbar{
+  margin: 0px;
+  padding: 0px;
+  max-width: inherit;
+}
+
+.navbar-brand{
+
+  padding: 20px;
+  font-size: 30px;
+}
+i{
+  padding:3px;
+  color: #fafafa;
+
+
+}
+
+
+#navbarSupportedContent{
+  margin-left: 10%;
+  padding: 20px;
+}
+
+#title{
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+  color: #fafafa;
+  font-family: Roboto;
+  padding: 50px;
+  padding-top: 70px;
+
+
+}
+aside{
+  border:1px solid black:
+  padding:100px;
+  width:600px;
+  height: 600px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-right: 100px;
+}
+#tag{
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: none;
+  margin-left: 40px;
+  color: #f1f1f1;
+  font-family: Roboto;
+  display: inline-block;
+}
+.quote{
+  font-size: 20px;
+  color: #f1f1f1;
+  font-family: Roboto;
+  display: inline-block;
+
+}
+
+
+.about {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 30px;
+  color: #f0f0f0;
+}
+
+
+
+
+
+.img2{
+  z-index: -1;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  max-width: 100%;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  padding-top: 200px;
+  padding-bottom: 130px;
+
+
+}
+
+footer{
+  max-height: 160px;
+  background-color: #525252;
+  margin-bottom: 0px;
+}
+
+.badge{
+  color: #fafafa;
+  font-size: 20px;
+  font-family: Roboto;
+  padding: 10px;
+  padding-bottom: 0px;
+
+}
+
+#find{
+  float: right;
+  color: #fafafa;
+  font-size: 20px;
+  font-family: Roboto;
+  padding: 10px;
+  padding-bottom: 0px;
+  margin: 0px;
+
+}
+.social{
+  float: right;
+  clear: left;
+  color: #fafafa;
+  font-size: 20px;
+  font-family: Roboto;
+  padding: 10px;
+
+
+}
+.icons{
+  float: right;
+  
+}
+.icon{
+  padding: 30px;
+  font-size: 30px;
+  margin-left: 90%
+  margin-right:10px;
+  display:inline-block;
+
+}
